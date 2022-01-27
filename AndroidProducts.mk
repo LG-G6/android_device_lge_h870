@@ -14,8 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_h870.mk
+    $(LOCAL_DIR)/carbon_h870.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_h870-userdebug \
-    lineage_h870-eng
+    carbon_h870-userdebug \
+    carbon_h870-user \
+    carbon_h870-eng
